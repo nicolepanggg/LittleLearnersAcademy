@@ -1,2 +1,33 @@
-# LittleLearnersAcademy
-99% AI produces applications, from design to programming
+# project
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+Web (Chrome):
+flutter run -d chrome
+
+Windows:
+flutter run -d windows
+
+Android:
+flutter run -d <device-id>
+
+iOS (macOS only):
+flutter run -d <ios-device-id>
+
+cd D:\2026Project\LittleLearnersAcademy\project
+flutter build web
+cd build\web
+python -m http.server 8081 --bind 127.0.0.1
