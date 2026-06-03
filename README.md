@@ -1,6 +1,20 @@
-# project
+#A new Flutter project.
 
-A new Flutter project.
+Design: Google stitch
+Development: Codex
+
+Step 1:
+Tell Google Stitch how to create the application layout
+
+Step 2:
+Copy the Google stitch layout to Figma
+
+Step 3:
+Please create an MCP in Figma and share the layout URL. Then, have Codex Connect to the Figma MCP to get the layout and data.
+
+Step 4:
+Codex Processing the application
+
 
 ## Getting Started
 
@@ -27,7 +41,12 @@ flutter run -d <device-id>
 iOS (macOS only):
 flutter run -d <ios-device-id>
 
-cd D:\2026Project\LittleLearnersAcademy\project
 flutter build web
 cd build\web
 python -m http.server 8081 --bind 127.0.0.1
+
+Figma Layout
+https://www.figma.com/design/Up5jUfkwXqsmvJFE5oxlYR/Little-Learners-Academy?node-id=0-1&t=bpHckMnowpMwoLKq-1
+
+Google stitch
+https://stitch.withgoogle.com/projects/7991237338358320720
